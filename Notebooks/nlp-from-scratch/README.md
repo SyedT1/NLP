@@ -1,0 +1,18 @@
+## Notebook - 1
+- What is NLP 
+- What is Text classification 
+- Why NLP is different 
+- What is Bag of Word
+- Example of BoW (img preferable)
+- ML Model
+- Theotretical Explanation of the Model
+- Mathematical point of view of the ML model (if possible)
+- Code Section 
+      - Load & Read the dataset
+      - Train Test Split
+       - BoW implementation (using API)
+      - ML Model implementation (fit model on train dataset)
+      - Prediction of Test Dataset
+      - Evaluation Metrics (accuracy, f1, precision, recall)
+     - Plotting Confusion Metrics
+- Drawback of BoW 
